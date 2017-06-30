@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/labuser/Desktop/eclipse-standard-kepler-SR1-win32-x86_64/Jmol-14.0.2-binary/jmol-14.0.2"/>
+	<classpathentry kind="lib" path="C:/Users/labuser/Desktop/eclipse-standard-kepler-SR1-win32-x86_64/Jmol-14.0.2-binary/jmol-14.0.2/Jmol.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labuser/Desktop/eclipse-standard-kepler-SR1-win32-x86_64/Jmol-14.0.2-binary/jmol-14.0.2/JmolData.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labuser/Desktop/eclipse-standard-kepler-SR1-win32-x86_64/Jmol-14.0.2-binary/jmol-14.0.2/JmolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labuser/Desktop/eclipse-standard-kepler-SR1-win32-x86_64/Jmol-14.0.2-binary/jmol-14.0.2/JSpecView.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labuser/Desktop/eclipse-standard-kepler-SR1-win32-x86_64/Jmol-14.0.2-binary/jmol-12.2.34-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labuser/Desktop/eclipse-standard-kepler-SR1-win32-x86_64/Jmol-14.0.2-binary/jmol-12.0.47.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/biojava3-aa-prop"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/biojava3-alignment"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/biojava3-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/biojava3-genome"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/biojava3-modfinder"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/biojava3-phylo"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/biojava3-protein-disorder"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/biojava3-sequencing"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/biojava3-structure"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/biojava3-structure-gui"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/biojava3-ws"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/integrationtest"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/protein-comparison-tool"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/survival"/>
+	<classpathentry kind="lib" path="C:/Users/labuser/Desktop/eclipse-standard-kepler-SR1-win32-x86_64/eclipse/biojava/biojava-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/labuser/Desktop/eclipse-standard-kepler-SR1-win32-x86_64/eclipse/servlet/servlet-api-2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
